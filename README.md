@@ -97,8 +97,7 @@ MBA | Aspiring Business Analyst
 
 ### Connect with me
 
-- LinkedIn: www.linkedin.com/in/utkarsha-desale-6a7594249
-- GitHub: 
+- LinkedIn: www.linkedin.com/in/utkarsha-desale-6a7594249 
 
 ---
 
