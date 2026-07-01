@@ -72,6 +72,8 @@ The objective of this project is to:
 
 - `Superstore Dashboard.pbix` – Power BI Dashboard
 - `README.md` – Project Documentation
+- `Dashboard.jpg` - Dashboard Image
+- `Superstore.xlsx` - Excel File
 
 ---
 
