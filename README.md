@@ -71,6 +71,7 @@ The objective of this project is to:
 ## 📂 Project Files
 
 - `Superstore Dashboard.pbix` – Power BI Dashboard
+- `e commerce project.ipynb` - Python File
 - `README.md` – Project Documentation
 - `Dashboard.jpg` - Dashboard Image
 - `Superstore.xlsx` - Excel File
